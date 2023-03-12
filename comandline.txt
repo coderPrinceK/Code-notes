@@ -6,3 +6,6 @@ ls = list
    ls shows the lists of directories
 pwd = print working directory
    it prints the name of your current directory.
+cd = change directory
+   cd changes your directory to a nested directory inside your current one
+   cd .. allows you to move back a directory.
