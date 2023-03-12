@@ -4,3 +4,5 @@ every thing bellow is what I have learned/done with a date attached and where I 
 3/12/23
 ls = list
    ls shows the lists of directories
+pwd = print working directory
+   it prints the name of your current directory.
