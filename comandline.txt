@@ -6,6 +6,8 @@ learned how to cd into an agacent directory
   ex: one/apple
      cd ../pinaepple
      one/pinaepple
+mkdir = make new directory
+   just type mkdir (Name you would like to make your new directory. )
 
 3/12/23
 ls = list
