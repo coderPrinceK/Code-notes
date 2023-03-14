@@ -8,6 +8,8 @@ learned how to cd into an agacent directory
      one/pinaepple
 mkdir = make new directory
    just type mkdir (Name you would like to make your new directory. )
+touch = make new file
+   type touch and then the name you want
 
 3/12/23
 ls = list
