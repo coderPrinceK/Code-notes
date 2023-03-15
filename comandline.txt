@@ -1,6 +1,9 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+3/14/23
+did command line work on Codecademy.
+
 3/13/23
 learned how to cd into an agacent directory
   ex: one/apple
