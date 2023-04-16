@@ -2,7 +2,14 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 4/15/23
+ls -alt lists all contents, including hidden files
+  and directories, in long format, ordered by the
+  date and time they were last modified.
 
+cat 
+  outputs the contents of a specified file.
+  l command for peeking at files without opening them, and confirming the result of other commands that change the contents of files.
+  
 3/16/23
 ls modefiers:
    ls -a = shows all lists all contents, including hidden files and directories
