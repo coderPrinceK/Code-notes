@@ -1,6 +1,8 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+4/15/23
+
 3/16/23
 ls modefiers:
    ls -a = shows all lists all contents, including hidden files and directories
