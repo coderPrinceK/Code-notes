@@ -1,6 +1,17 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+
+5/2/23
+cp -the copy command
+  (cp name of file / new file name)
+  if you want to copy into a new directory list the old directory
+  and the old dile anthe the new name and new directory.
+  copy multiple files by stateing their directory and name and what directory you want te=hem to go to.
+  cp * my_directory/ copys an entire directory.
+  
+
+
 4/15/23
 ls -alt lists all contents, including hidden files
   and directories, in long format, ordered by the
