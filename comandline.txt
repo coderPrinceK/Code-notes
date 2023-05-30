@@ -3,6 +3,12 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 5/30/23
+rm
+  The rm command deletes files and directories.
+  The -r (recursive) option is used to delete a directory and all of its child directories.
+  deletes files and directories permanently!!!!!
+
+
 mv 
   moves files without creating copies
 
