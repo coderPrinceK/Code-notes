@@ -2,6 +2,10 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 
+5/30/23
+mv 
+  moves files without creating copies
+
 5/2/23
 cp -the copy command
   (cp name of file / new file name)
