@@ -1,0 +1,13 @@
+This is where all my notes on 6502 are
+(Yes 6502 is archaic but its what the NES used so I think I'll try to create my own game at somepoint)
+
+
+
+
+5/29/23
+  I have Follows NesHacker's video tutorial to set up and configure a 6502 enviornment.
+  I have also follewed his directions to create a simple fyle that prints HELLO when run through 
+  an emulator such as FCEUX
+  here is the video link:
+     https://www.youtube.com/watch?v=RtY5FV5TrIU
+     

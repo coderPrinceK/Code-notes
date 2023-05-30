@@ -1,5 +1,8 @@
 This is my python Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+5/29/23
+Did some review of if/elif/else statements on Codecademy.
+
 3/12/23
 Did some work not on Codecademy.
