@@ -1,7 +1,7 @@
 This is where all my notes on 6502 are
 (Yes 6502 is archaic but its what the NES used so I think I'll try to create my own game at somepoint)
 
-
+6/2/23
 *numbers can be represented in many ways in assembly sch as base 10 decimal, hexidecimal, and binary
   the # represents base 10 numbers.
 
