@@ -1,8 +1,13 @@
 This is my python Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
-6/2/23
 
+6/4/23
+
+
+completed a Codecademy practice test.
+
+6/2/23
 
 random numbers can be used by importing random
   once imported, used this example to create a random number -> random.randint(1, 9)
