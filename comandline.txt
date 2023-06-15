@@ -2,6 +2,12 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 
+6/15/23
+x*
+  the * is a wild card that can be used to denote all files begining with a 
+  letter or phrase.
+  such as: f*.txt
+
 5/30/23
 rm
   The rm command deletes files and directories.
