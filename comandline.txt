@@ -3,6 +3,12 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 6/15/23
+echo
+  The echo command accepts the string “Hello” as standard input, and echoes the string “Hello”
+  back to the terminal as standard output.
+
+
+
 x*
   the * is a wild card that can be used to denote all files begining with a 
   letter or phrase.
