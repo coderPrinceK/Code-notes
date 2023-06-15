@@ -3,6 +3,16 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 6/15/23
+
+input/output/error
+
+  standard input, abbreviated as stdin, is information inputted into the terminal through the keyboard or input device.
+
+  standard output, abbreviated as stdout, is the information outputted after a process is run.
+
+  standard error, abbreviated as stderr, is an error message outputted by a failed process.
+
+
 echo
   The echo command accepts the string “Hello” as standard input, and echoes the string “Hello”
   back to the terminal as standard output.
