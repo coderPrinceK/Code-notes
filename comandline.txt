@@ -10,6 +10,7 @@ grep
   stands for “global regular expression print.”
   It searches files for lines that match a pattern and
   then returns the results
+  -i enables the command to be case insensitive. 
 
 uniq
   stands for “unique.” It filters out adjacent, duplicate lines in a file.
