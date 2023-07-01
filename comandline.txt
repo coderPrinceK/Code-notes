@@ -5,6 +5,12 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/1/23
 
+
+grep
+  stands for “global regular expression print.”
+  It searches files for lines that match a pattern and
+  then returns the results
+
 uniq
   stands for “unique.” It filters out adjacent, duplicate lines in a file.
 
