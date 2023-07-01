@@ -15,6 +15,9 @@ grep
   -R searches all files in a directory and outputs filenames and lines containing matched results.
   -R stands for “recursive”. 
 
+  grep -Rl searches all files in a directory and outputs only filenames with matched results (so no lines). 
+  l (a lowercase L, not a capital i) stands for “files with matches.” 
+
 uniq
   stands for “unique.” It filters out adjacent, duplicate lines in a file.
 
