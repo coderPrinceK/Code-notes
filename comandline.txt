@@ -12,6 +12,9 @@ grep
   then returns the results
   -i enables the command to be case insensitive. 
 
+  -R searches all files in a directory and outputs filenames and lines containing matched results.
+  -R stands for “recursive”. 
+
 uniq
   stands for “unique.” It filters out adjacent, duplicate lines in a file.
 
