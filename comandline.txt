@@ -2,12 +2,18 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 
-6/15/23
 
+
+|
+   a “pipe.” The | takes the standard output of
+   the command on the left, and pipes it as standard
+   input to the command on the right.
 
 <
   takes the standard input from the file on the right and inputs it into the command on the left.
 
+
+6/15/23
 >> 
   takes the standard output of the command on the left and appends (adds) it to the file on the right.
 
