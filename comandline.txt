@@ -4,6 +4,10 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 6/15/23
 
+
+<
+  takes the standard input from the file on the right and inputs it into the command on the left.
+
 >> 
   takes the standard output of the command on the left and appends (adds) it to the file on the right.
 
