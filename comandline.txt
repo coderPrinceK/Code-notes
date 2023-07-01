@@ -6,6 +6,11 @@ every thing bellow is what I have learned/done with a date attached and where I 
 7/1/23
 
 
+
+sed 
+  stands for “stream editor.
+  similar to “find and replace.”
+
 grep
   stands for “global regular expression print.”
   It searches files for lines that match a pattern and
