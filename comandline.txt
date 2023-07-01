@@ -6,6 +6,10 @@ every thing bellow is what I have learned/done with a date attached and where I 
 7/1/23
 
 
+
+sort
+   takes the standard input and orders it alphabetically for the standard output 
+
 wc 
    outputs the number of lines, words, and characters 
 
