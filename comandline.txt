@@ -11,8 +11,8 @@ sed
   stands for “stream editor.
   similar to “find and replace.”
     s: stands for “substitution.” It is always used when using sed for substitution.
-    snow: the search string, or the text to find.
-    rain: the replacement string, or the text to add in place.
+    first word: the search string, or the text to find.
+    second word: the replacement string, or the text to add in place.
     g expression, meaning “global.
 
 grep
