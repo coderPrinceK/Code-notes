@@ -14,6 +14,8 @@ sed
     first word: the search string, or the text to find.
     second word: the replacement string, or the text to add in place.
     g expression, meaning “global.
+    In order to rewrite the actual file, we need to use -i at the beginning of the command:
+    (it only changes the output if you don't use -i)
 
 grep
   stands for “global regular expression print.”
