@@ -13,6 +13,7 @@ sed
     s: stands for “substitution.” It is always used when using sed for substitution.
     snow: the search string, or the text to find.
     rain: the replacement string, or the text to add in place.
+    g expression, meaning “global.
 
 grep
   stands for “global regular expression print.”
