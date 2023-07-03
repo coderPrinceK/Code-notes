@@ -2,10 +2,13 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 
+7/2/23
+
+completed a Codecademy reveiw project.
+
+
 
 7/1/23
-
-
 
 sed 
   stands for “stream editor.
