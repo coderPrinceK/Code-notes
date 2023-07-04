@@ -3,6 +3,14 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 7/3/23
+
+Customization with .bash_profile
+  A bash profile is a file used to store environment settings for your terminal. 
+  On most computer systems, the file is in the home directory and is accessible by the name .bash_profile.
+  When a session starts, it loads the contents of the bash profile before executing commands.
+  . indicates a hidden file.
+  The name .bash_profile is important since this is how the command line recognizes the bash profile.
+
 nano text editor
   how to start it example -> nano hello.txt
     you can write text and then save it with Control + O
