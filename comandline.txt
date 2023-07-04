@@ -6,7 +6,8 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 alias 
-  this command allows you to create keyboard shortcuts, or aliases, for commonly used commands.
+  this command allows you to create keyboard shortcuts, or aliases, for commonly used commands in nano
+  here is an example -> alias pd="pwd"
 
 
 
