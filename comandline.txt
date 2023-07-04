@@ -5,7 +5,7 @@ every thing bellow is what I have learned/done with a date attached and where I 
 7/3/23
 nano text editor
   how to start it example -> nano hello.txt
-  
+    you can write text and then save it with Control + O
 
 
 
