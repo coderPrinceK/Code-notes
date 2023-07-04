@@ -4,6 +4,12 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/3/23
 
+
+alias 
+  this command allows you to create keyboard shortcuts, or aliases, for commonly used commands.
+
+
+
 Customization with .bash_profile
  
  
