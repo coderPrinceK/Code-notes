@@ -2,6 +2,13 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 
+7/3/23
+nano text editor
+  how to start it example -> nano hello.txt
+  
+
+
+
 7/2/23
 
 completed a Codecademy reveiw project.
