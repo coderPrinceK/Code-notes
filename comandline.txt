@@ -6,6 +6,8 @@ every thing bellow is what I have learned/done with a date attached and where I 
 nano text editor
   how to start it example -> nano hello.txt
     you can write text and then save it with Control + O
+  Ctrl + X exits the nano program. X stands for exit.
+  Ctrl + G opens a help menu.
 
 
 
