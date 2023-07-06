@@ -40,7 +40,6 @@ nano text editor
 completed a Codecademy reveiw project.
 
 
-
 7/1/23
 
 sed 
