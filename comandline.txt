@@ -7,7 +7,8 @@ PS1
   is an environment variable that defines the makeup and style of the command prompt.
   export PS1=">> " 
     sets the command prompt variable and exports the variable. Here we change the default command prompt from $ to >>.
-  
+  For example instead of seeing "$ pwd" after using a command you would see ">> pwd"
+
 
 
 
