@@ -3,6 +3,11 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/7/23
 
+PS1
+  is an environment variable that defines the makeup and style of the command prompt.
+
+
+
 Environment Variables
   Environment variables are variables that can be
   used across commands and programs and hold information about the environment.
