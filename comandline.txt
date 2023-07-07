@@ -3,6 +3,16 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/7/23
 
+PATH Environment Variable
+  PATH is an environment variable that stores a list of directories separated by a colon.
+  echo $PATH lists the following directories, separated by :
+  The PATH variable simply lists which directories contain scripts.
+  For example, many commands we’ve learned are scripts stored in the /bin directory.
+  Example -> /bin/pwd
+  this stores the pwd command. It is called the scripts
+  In advanced cases, you can customize the PATH variable when adding scripts of your own.
+
+
 HOME Environment Variable
   The HOME variable is an environment variable that displays the path of the home directory
   Use -> echo $HOME to find the path of this directory.
