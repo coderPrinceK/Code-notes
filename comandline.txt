@@ -1,6 +1,13 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+7/7/23
+alias
+  Example -> alias hy="history"
+    the history command out puts the history of the commands used.
+  Example -> alias ll="ls -la"
+    this command outputs all contents and directories in long format, including all hidden files.
+
 
 7/4/23
 Happy 4th of July!
