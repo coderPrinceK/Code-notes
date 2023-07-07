@@ -2,6 +2,12 @@ This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
 7/7/23
+
+Environment Variables
+  Environment variables are variables that can be
+  used across commands and programs and hold information about the environment.
+
+
 alias
   Example -> alias hy="history"
     the history command out puts the history of the commands used.
