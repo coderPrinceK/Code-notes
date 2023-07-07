@@ -7,6 +7,14 @@ Environment Variables
   Environment variables are variables that can be
   used across commands and programs and hold information about the environment.
 
+  here is an example -> export USER="Jane Doe"
+    this sets the environment variable USER to a name “Jane Doe”.
+    The line export makes the variable to be available to all child sessions initiated from the session you are in.
+    This is a way to make the variable persist across programs.
+
+  $
+   this sign is used to retrive a variables value for Example -> echo $USER
+
 
 alias
   Example -> alias hy="history"
