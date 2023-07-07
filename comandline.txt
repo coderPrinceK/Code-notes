@@ -3,6 +3,11 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/7/23
 
+HOME Environment Variable
+  The HOME variable is an environment variable that displays the path of the home directory
+  Use -> echo $HOME to find the path of this directory.
+
+
 PS1
   is an environment variable that defines the makeup and style of the command prompt.
   export PS1=">> " 
