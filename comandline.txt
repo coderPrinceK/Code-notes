@@ -4,7 +4,8 @@ every thing bellow is what I have learned/done with a date attached and where I 
 7/8/23
 env
   The env command stands for “environment,” and returns a list of the environment variables for the current user.
-  
+  This command returns a number of variables, including PATH, PWD, PS1, and HOME
+
 
 
 
