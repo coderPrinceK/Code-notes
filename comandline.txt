@@ -1,6 +1,10 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+
+7/9/23
+compleated a Codecademy quiz.
+
 7/8/23
 env
   The env command stands for “environment,” and returns a list of the environment variables for the current user.
