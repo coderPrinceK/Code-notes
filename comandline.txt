@@ -4,6 +4,9 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 7/9/23
 
+
+compleated a project using this linke -> https://content.codecademy.com/courses/learn-command-line/offline-project/lingua-franca-project.zip?_gl=1*19jy5zo*_ga*ODIyNzc2NTQ4LjE2NzI0NTc2NjM.*_ga_3LRZM6TM9L*MTY4ODkzNDk4My40MS4xLjE2ODg5MzU4MzIuNDAuMC4w
+
 when using ls for example ls todo/* 
   this command will show all the files inside of their directories.
 
