@@ -3,6 +3,10 @@ every thing bellow is what I have learned/done with a date attached and where I 
 
 
 7/9/23
+
+when using ls for example ls todo/* 
+  this command will show all the files inside of their directories.
+
 compleated a Codecademy project
 
 compleated a Codecademy quiz.
