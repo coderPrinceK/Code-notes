@@ -5,6 +5,8 @@ This is where all java notes are
 
 VARIABLES
   how we store information.
+    Primitive data types are types of data built-in to the Java system. 
+      The three main primitive types we’ll cover are int, double, and boolean
 
 
 Methods
