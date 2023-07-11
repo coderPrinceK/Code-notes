@@ -3,6 +3,10 @@ This is where all java notes are
 
 7/11/23
 
+VARIABLES
+  how we store information.
+
+
 Methods
   Every Java program must have a method called main(). 
   A method is a sequence of tasks for the computer to execute. 
