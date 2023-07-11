@@ -3,6 +3,14 @@ This is where all java notes are
 
 7/11/23
 
+compiling notes -> JVM
+  compilers change human written code into matchine code
+  to do this in the terminal type javac Filename
+  then hit enter
+
+
+
+
 /**
 Javadoc comments
 */ 
