@@ -1,6 +1,10 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
+7/11/23
+javac Filename
+  this command compiles .java files.
+
 
 7/9/23
 As of today I recived my command line certificate of completion from Codecademy
