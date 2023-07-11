@@ -1,9 +1,11 @@
 This is my ComandLine Notes doc
 every thing bellow is what I have learned/done with a date attached and where I did it.
 
-7/11/23
+7/11/23 
 javac Filename
   this command compiles .java files.
+    use java filename
+    to run an exocuteable.
 
 
 7/9/23

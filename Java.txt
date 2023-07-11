@@ -3,11 +3,25 @@ This is where all java notes are
 
 7/11/23
 
+
 compiling notes -> JVM
   compilers change human written code into matchine code
   to do this in the terminal type javac Filename
   then hit enter
   if there are any errors the terminal will state what and where something is wrong.
+
+    Compilation: Creating Executables
+    
+  If the file compiles successfully, this command produces an executable class.
+  FileName.class. Executable means we can run this program from the terminal.
+  We run the executable with the command: java FileName
+     leave off the .class part of the filename.
+
+  through this process you are left with 2 files a .java and a .class file
+    the .java file has the human code
+    the .class file has Java bytecode, ready to be executed by the Java Virtual Machine.
+
+
 
 
 
