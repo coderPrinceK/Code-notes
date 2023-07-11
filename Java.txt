@@ -3,6 +3,9 @@ This is where all java notes are
 
 7/11/23
 
+//
+  these lines are used to write comments.
+
 println vs print
   println moves the curser to the next line 
   while print just moves it forward from the previouse string.
