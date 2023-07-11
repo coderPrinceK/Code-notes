@@ -3,6 +3,14 @@ This is where all java notes are
 
 7/11/23
 
+/**
+Javadoc comments
+*/ 
+  Javadoc comments are used to create documentation for APIs (Application Programming Interfaces).
+  avadoc comments are typically written before the declaration of fields, methods, and classes
+
+
+
 /*
 hello
 */
