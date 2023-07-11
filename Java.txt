@@ -3,6 +3,12 @@ This is where all java notes are
 
 7/11/23
 
+/*
+hello
+*/
+  This is an example of how to write a multi-line comment.
+
+
 //
   these lines are used to write comments.
 
