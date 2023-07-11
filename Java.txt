@@ -2,6 +2,11 @@ This is where all java notes are
 
 
 7/11/23
+System.out.println();
+  System is a built-in Java class that contains useful tools for our programs.
+  out is short for “output”.
+  println is short for “print line”.
+
 ;
   all lines must end with the all mighty semicomlen!!!
 
