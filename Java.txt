@@ -1,5 +1,10 @@
-This is where all javascript notes are
+This is where all java notes are
+
+
+7/11/23
+;
+  all lines must end with the all mighty semicomlen!!!
 
 7/10/23
-System.out.println()
+System.out.println();
   this is how you print things.
