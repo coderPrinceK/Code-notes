@@ -7,6 +7,7 @@ compiling notes -> JVM
   compilers change human written code into matchine code
   to do this in the terminal type javac Filename
   then hit enter
+  if there are any errors the terminal will state what and where something is wrong.
 
 
 
